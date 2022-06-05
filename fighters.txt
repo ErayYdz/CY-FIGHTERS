@@ -1,0 +1,32 @@
+              ________________________________________________________________________________________________________________________________________________
+              |                                                                                                                                              |
+              |                                                               FIGHTERS' LIST :                                                               |
+              |                                                                                                                                              |
+              |                       Fighter N° 1 :                           Fighter N° 2 :                           Fighter N° 3 :                       |
+              |                                                                                                                                              |
+              |                       Name : Khabib.N                          Name : Conor.M                           Name : Charles.O                     |
+              |                       Hp : 100                                 Hp : 100                                 Hp : 100                             |
+              |                       HpMax : 105                              HpMax : 105                              HpMax : 110                          |
+              |                       Attack : 9                               Attack : 8                               Attack : 7.5                         |
+              |                       Defense : 30                             Defense : 30                             Defense : 30                         |
+              |                       Agility : 85                             Agility : 90                             Agility : 85                         |
+              |                       Speed : 85                               Speed : 90                               Speed : 80                           |
+              |                       Skill :                                  Skill :                                  Skill :                              |
+              |                       Effects :                                Effects :                                Effects :                            |
+              |                                                                                                                                              |
+              |                                                                                                                                              |
+              |                                                                                                                                              |
+              |                       Fighter N° 4 :                           Fighter N° 5 :                           Fighter N° 6 :                       |
+              |                                                                                                                                              |
+              |                       Name : Khamzat.C                         Name : Ciryl.G                           Name : Francis.N                     |
+              |                       Hp : 100                                 Hp : 100                                 Hp : 100                             |
+              |                       HpMax : 115                              HpMax : 125                              HpMax : 130                          |
+              |                       Attack : 7                               Attack : 9                               Attack : 9.5                         |
+              |                       Defense : 30                             Defense : 28                             Defense : 27                         |
+              |                       Agility : 90                             Agility : 60                             Agility : 50                         |
+              |                       Speed : 80                               Speed : 55                               Speed : 50                           |
+              |                       Skill :                                  Skill :                                  Skill :                              |
+              |                       Effects :                                Effects :                                Effects :                            |
+              |                                                                                                                                              |
+              |                                                                                                                                              |
+              |______________________________________________________________________________________________________________________________________________|
